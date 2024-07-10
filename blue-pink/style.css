@@ -12,7 +12,7 @@ body{
     width: 100vw;
     height: 100vh;
     color: whitesmoke;
-    overflow-y: hidden;
+    overflow-x: hidden;
 }
 .navbar{
     background: rgb(13, 13, 37);
